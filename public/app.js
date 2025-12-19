@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // API Base URL
 const API_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
   ? 'http://localhost:5000/api'  // local development
-  : 'https://zydo-graduate-empowerment-system-zges-zswf.onrender.com'; // production cusub
+  : 'https://sydo-graduate-empowerment-system-sges.onrender.com'; // production cusub
 
 
 
